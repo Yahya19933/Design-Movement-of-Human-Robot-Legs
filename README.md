@@ -1,5 +1,5 @@
 # Design-Movement-of-Human-Robot-Legs
-The first task of the internship at Smart Methods Company
+desgine the movment of legs and calculate the maximum angle for the step of leg
 
 In the First task on training is asked to design the movement of the human-robot legs and calculate the maximum angle for leg movement.
 
