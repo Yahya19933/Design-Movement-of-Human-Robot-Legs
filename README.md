@@ -5,4 +5,12 @@ In the First task on training is asked to design the movement of the human-robot
 
 ![Animation](https://user-images.githubusercontent.com/90250848/186134064-d0da5e87-dda1-4bcf-825f-2dec83ab0ce5.gif)
 ![Assembly](https://user-images.githubusercontent.com/90250848/186134568-a27ebbe8-cf54-40d0-bbc4-3b0072810b71.JPG)
-![Darft](https://user-images.githubusercontent.com/90250848/186134619-15a17022-07e0-469e-b3d5-e870a17aff52.JPG)
+
+##The maximum angle
+By assuming the allowed step size 25% of the total leg length of the robot
+![Angle](https://user-images.githubusercontent.com/90250848/186350094-e7b09696-a6ef-41bb-92b4-4b79c446262f.PNG)
+a = 64cm
+b= 64
+h= ![h=](https://latex.codecogs.com/gif.latex?%5Csqrt%7B64%5E%7B2%7D-8%5E%7B2%7D%7D%20%3D%2036.5%20cm)
+
+##the dimentiones 
