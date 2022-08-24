@@ -9,8 +9,11 @@ In the First task on training is asked to design the movement of the human-robot
 ##The maximum angle
 By assuming the allowed step size 25% of the total leg length of the robot
 ![Angle](https://user-images.githubusercontent.com/90250848/186350094-e7b09696-a6ef-41bb-92b4-4b79c446262f.PNG)
+
 a = 64cm
+
 b= 64
+
 h= ![h=](https://latex.codecogs.com/gif.latex?%5Csqrt%7B64%5E%7B2%7D-8%5E%7B2%7D%7D%20%3D%2036.5%20cm)
 
 ##the dimentiones 
